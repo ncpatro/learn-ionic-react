@@ -14,7 +14,7 @@ cd myApp
 ```ionic serve```
 
 
-### add Capacitor to your project
+### Add Capacitor to your project
 ```ionic integrations enable capacitor```
 
 
